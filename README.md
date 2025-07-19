@@ -81,15 +81,11 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <i>💡 "Data is the new oil, but insights are the refined fuel that drives innovation!"</i>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=brightgreen&style=flat-square" alt="Profile Views" />
-</p>
+
+
+
 
 <!---
 Kaviyarasu24/Kaviyarasu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
