@@ -1,14 +1,12 @@
 # Hi there, I'm Kaviyarasu! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Problem+Solver;Power+BI+Developer;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Problem+Solver;Always+learning+new+tech!" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 - 🔍 **Data Analyst** passionate about turning data into actionable insights
-- 📊 **Power BI Developer** creating interactive dashboards and visualizations
-- 💡 **Problem Solver** with a focus on algorithmic thinking and optimization
-- 🌱 Currently mastering **Advanced Power BI**, **DAX**, and **Python for Data Science**
+-  **Problem Solver** with a focus on algorithmic thinking and optimization
 - 🎯 Looking to collaborate on **data visualization projects** and **analytical solutions**
 
 ## 🛠️ Tech Stack
@@ -31,22 +29,39 @@
 ![Expo](https://img.shields.io/badge/-Expo_Go-000020?style=flat-square&logo=expo&logoColor=white)
 
 ### 🗄️ Databases & Tools
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 
+## 📈 Featured Projects
+
+### 🏏 IPL Analysis Dashboard (2008-2024)
+- **Tech Stack:** Power BI, DAX, Data Modeling
+- **Features:** Interactive visualizations showing player performance, team wins, venue outcomes, and toss impact
+- **Impact:** Advanced filtering and time-series storytelling for comprehensive IPL data analysis
+
+### 🤖 EDITH Voice Assistant
+- **Tech Stack:** Python, Speech Recognition, FastAPI, React
+- **Features:** Real-time voice and text commands, system status monitoring, weather updates, holographic interface
+- **Purpose:** Personal AI assistant with automated responses and application control
+
+### 📄 Report Automation Tool
+- **Tech Stack:** Python, Excel, HTML/PDF Generation
+- **Features:** Automated multi-page agricultural report generation from Excel data
+- **Impact:** Streamlined precision farming analysis with vegetation indices and embedded visualizations
+
+### 🎓 DAKSHAA T26
+- **Tech Stack:** React, Express.js, Supabase, REST APIs
+- **Features:** Full-stack symposium platform with authentication, Paytm payment integration, VPS deployment
+- **Impact:** Secure event management system with Cloudflare security and college website integration
+
 ## 🎯 Problem Solving Journey
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kaviyarasu_P?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
-</p>
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ## 🤝 Let's Connect!
