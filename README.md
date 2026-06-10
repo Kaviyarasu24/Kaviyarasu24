@@ -92,8 +92,8 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Kaviyarasu24&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=Kaviyarasu24&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
   </a>
 </p>
 
