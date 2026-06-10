@@ -1,11 +1,17 @@
 # Hi there, I'm Kaviyarasu! 👋
 
-<!-- Badges: followers, GitHub stats, top languages, streak -->
+
+<!-- Dark-theme badges: followers, GitHub stats, top languages, streak -->
 <p align="center">
-  <a href="https://github.com/Kaviyarasu24"><img src="https://img.shields.io/github/followers/Kaviyarasu24?label=Followers&style=social" alt="Followers" /></a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=default" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=default" alt="Streak" />
+  <a href="https://github.com/Kaviyarasu24"><img src="https://img.shields.io/github/followers/Kaviyarasu24?label=Followers&style=for-the-badge&color=white" alt="Followers" height="28" /></a>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/Kaviyarasu24&color=blue&style=for-the-badge" alt="Public Repos" height="28" />
+  <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=blue&style=for-the-badge" alt="Profile Views" height="28" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
 </p>
 
 <p align="center">
