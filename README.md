@@ -108,15 +108,7 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-api.herokuapp.com/Kaviyarasu_P" alt="LeetCode Total Solved" />
-</p>
-
-<p align="center">
   <img src="https://leetcard.jacoblin.cool/Kaviyarasu_P?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-</p>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kaviyarasu_P&theme=dark&border=none" alt="LeetCode Badges" />
 </p>
 
 ## Connect
