@@ -94,7 +94,7 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 ## GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
 </p>
