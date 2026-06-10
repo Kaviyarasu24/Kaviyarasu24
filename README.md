@@ -8,13 +8,11 @@
   <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=blue&style=for-the-badge" alt="Profile Views" height="28" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Graduate;Always+learning+and+building" alt="Typing SVG" />
-</p>
 
-## Professional Summary
 AI & Data Science graduate with hands-on experience in Python, Power BI, PostgreSQL, and full-stack development. Proven ability to build end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems. Passionate about transforming raw data into actionable insights and delivering scalable solutions.
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Graduate;Building+intelligent+systems;Turning+data+into+decisions;Open+to+collaborate+%26+innovate" alt="Typing SVG" />
+</p>
 
 ## Tech Stack
 
