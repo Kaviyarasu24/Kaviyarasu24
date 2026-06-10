@@ -1,5 +1,13 @@
 # Hi there, I'm Kaviyarasu! 👋
 
+<!-- Badges: followers, GitHub stats, top languages, streak -->
+<p align="center">
+  <a href="https://github.com/Kaviyarasu24"><img src="https://img.shields.io/github/followers/Kaviyarasu24?label=Followers&style=social" alt="Followers" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=default" alt="Streak" />
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Graduate;Always+learning+and+building" alt="Typing SVG" />
 </p>
@@ -7,12 +15,6 @@
 ## Professional Summary
 AI & Data Science graduate with hands-on experience in Python, Power BI, PostgreSQL, and full-stack development. Proven ability to build end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems. Passionate about transforming raw data into actionable insights and delivering scalable solutions.
 
-## Contact
-- **Website:** https://kaviyarasup.me
-- **LinkedIn:** https://www.linkedin.com/in/kaviyarasup2411
-- **GitHub:** https://github.com/Kaviyarasu24
-- **Email:** kaviyarasu24@gmail.com
-- **Mobile:** +91 70107 64469
 
 ## Skills & Tech Stack
 
@@ -49,24 +51,8 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 - **Tech Stack:** React Native, TypeScript, Supabase (PostgreSQL)
 - Developed an Android app with authentication, real-time transaction tracking, and analytics dashboards (donut charts, income vs expense, savings rate).
 
-## Internship Experience
 
-- **Tech Associate — Inaiyam Innovations** (July 2025 — October 2025)
-  - Automated report generation using Python & Excel, integrating NDVI & EVI indices into GIS workflows.
-  - Validated dataset accuracy and maintained technical documentation.
 
-## Education
-
-- **K. S. Rangasamy College of Technology, Tiruchengode** — B.Tech in Artificial Intelligence and Data Science (2023 - 2027)
-  - CGPA: 8.7 (up to 5th Semester)
-- **Sankar Ponnar Higher Secondary School, Palani** — HSC Computer Science with Mathematics (2022 - 2023)
-  - Percentage: 89%
-
-## Achievements
-
-- Cleared 2 rounds of the Tamil Nadu Skill Competition 2025 in Cloud Computing.
-- Selected in the Top 15 at the ABB Hackathon.
-- Served as Joint Coordinator – Web & Technology for DAKSHAA (2024 & 2025).
 
 ## Problem Solving & Profiles
 
