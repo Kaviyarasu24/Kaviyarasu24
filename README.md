@@ -1,93 +1,83 @@
 # Hi there, I'm Kaviyarasu! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Problem+Solver;Always+learning+new+tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Graduate;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
-## 🚀 About Me
-- 🔍 **Data Analyst** passionate about turning data into actionable insights
--  **Problem Solver** with a focus on algorithmic thinking and optimization
-- 🎯 Looking to collaborate on **data visualization projects** and **analytical solutions**
+## Professional Summary
+AI & Data Science graduate with hands-on experience in Python, Power BI, PostgreSQL, and full-stack development. Proven ability to build end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems. Passionate about transforming raw data into actionable insights and delivering scalable solutions.
 
-## 🛠️ Tech Stack
+## Contact
+- **Website:** https://kaviyarasup.me
+- **LinkedIn:** https://www.linkedin.com/in/kaviyarasup2411
+- **GitHub:** https://github.com/Kaviyarasu24
+- **Email:** kaviyarasu24@gmail.com
+- **Mobile:** +91 70107 64469
 
-### 📊 Data Analytics & Visualization
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+## Skills & Tech Stack
 
-### 💻 Programming & Development
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/-Expo_Go-000020?style=flat-square&logo=expo&logoColor=white)
+### Data & ML
+- Python, NumPy, Pandas, Scikit-learn
+- Power BI, Matplotlib, Seaborn
 
-### 🗄️ Databases & Tools
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+### Development
+- React Native, Expo, TypeScript, JavaScript
+- Python, Java, C
 
-## 📈 Featured Projects
+### Databases & Cloud
+- PostgreSQL, MySQL, Supabase
+- AWS, Supabase
 
-### 🏏 IPL Analysis Dashboard (2008-2024)
+### Tools
+- Git, GitHub, VS Code, Excel
+
+## Featured Projects
+
+### IPL Analysis Dashboard (2008–2024)
 - **Tech Stack:** Power BI, DAX, Data Modeling
-- **Features:** Interactive visualizations showing player performance, team wins, venue outcomes, and toss impact
-- **Impact:** Advanced filtering and time-series storytelling for comprehensive IPL data analysis
+- Analyzed 900+ IPL matches to uncover player performance trends, venue win rates, and toss impact. Built dynamic filtering and time-series storytelling across 16 seasons.
 
-### 🤖 EDITH Voice Assistant
-- **Tech Stack:** Python, Speech Recognition, FastAPI, React
-- **Features:** Real-time voice and text commands, system status monitoring, weather updates, holographic interface
-- **Purpose:** Personal AI assistant with automated responses and application control
-
-### 📄 Report Automation Tool
+### Report Automation Tool
 - **Tech Stack:** Python, Excel, HTML/PDF Generation
-- **Features:** Automated multi-page agricultural report generation from Excel data
-- **Impact:** Streamlined precision farming analysis with vegetation indices and embedded visualizations
+- Built a pipeline that ingests raw Excel vegetation-index data (NDVI, EVI) and embedded field images, auto-generating multi-page responsive HTML and PDF reports for precision farming. Reduced manual report preparation time by over 70%.
 
-### 🎓 DAKSHAA T26
-- **Tech Stack:** React, Express.js, Supabase, REST APIs
-- **Features:** Full-stack symposium platform with authentication, Paytm payment integration, VPS deployment
-- **Impact:** Secure event management system with Cloudflare security and college website integration
+### EDITH Voice Assistant
+- **Tech Stack:** Python, SpeechRecognition, FastAPI, React
+- Engineered a voice assistant supporting real-time voice and text commands, system monitoring, weather updates, and a React-based holographic UI.
 
-## 🎯 Problem Solving Journey
+### FinanceFlow — Personal Finance Analytics App
+- **Tech Stack:** React Native, TypeScript, Supabase (PostgreSQL)
+- Developed an Android app with authentication, real-time transaction tracking, and analytics dashboards (donut charts, income vs expense, savings rate).
+
+## Internship Experience
+
+- **Tech Associate — Inaiyam Innovations** (July 2025 — October 2025)
+  - Automated report generation using Python & Excel, integrating NDVI & EVI indices into GIS workflows.
+  - Validated dataset accuracy and maintained technical documentation.
+
+## Education
+
+- **K. S. Rangasamy College of Technology, Tiruchengode** — B.Tech in Artificial Intelligence and Data Science (2023 - 2027)
+  - CGPA: 8.7 (up to 5th Semester)
+- **Sankar Ponnar Higher Secondary School, Palani** — HSC Computer Science with Mathematics (2022 - 2023)
+  - Percentage: 89%
+
+## Achievements
+
+- Cleared 2 rounds of the Tamil Nadu Skill Competition 2025 in Cloud Computing.
+- Selected in the Top 15 at the ABB Hackathon.
+- Served as Joint Coordinator – Web & Technology for DAKSHAA (2024 & 2025).
+
+## Problem Solving & Profiles
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Kaviyarasu_P?theme=dark&font=Noto%20Sans&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
-## 🤝 Let's Connect!
+## Connect
 
-<p align="center">
-  <a href="https://kaviyarasup.me">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/kaviyarasup2411/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:kaviyarasu24@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://codolio.com/profile/kaviyarasu">
-    <img src="https://img.shields.io/badge/-Codolio-FF6B6B?style=for-the-badge&logo=code&logoColor=white" alt="Codolio" />
-  </a>
-</p>
-
-
-
-
-
-
+Find more on my [Portfolio](https://kaviyarasup.me) or reach out via [LinkedIn](https://www.linkedin.com/in/kaviyarasup2411).
 
 <!---
 Kaviyarasu24/Kaviyarasu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 --->
