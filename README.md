@@ -9,41 +9,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Graduate;Always+learning+and+building" alt="Typing SVG" />
 </p>
 
 ## Professional Summary
 AI & Data Science graduate with hands-on experience in Python, Power BI, PostgreSQL, and full-stack development. Proven ability to build end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems. Passionate about transforming raw data into actionable insights and delivering scalable solutions.
 
-
-## Skills & Tech Stack
-
-### Data & ML
-- Python, NumPy, Pandas, Scikit-learn
-- Power BI, Matplotlib, Seaborn
-
-### Development
-- React Native, Expo, TypeScript, JavaScript
-- Python, Java, C
-
-### Databases & Cloud
-- PostgreSQL, MySQL, Supabase
-- AWS, Supabase
-
-### AI Frameworks & Deployment
-- LangChain, Vercel, Cloudflare, Kiro
-
-### Databases & Cloud
-- MongoDB, Tableau
-
-### Tools
-- Git, GitHub, VS Code, Excel
 
 ## Tech Stack
 
@@ -119,6 +90,14 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 
 
 
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
+</p>
 
 ## Problem Solving & Profiles
 
