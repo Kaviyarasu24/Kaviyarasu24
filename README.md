@@ -92,12 +92,6 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 ## GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/lucthienphong1120/github-trophies">
-    <img src="https://github-trophies.vercel.app/?username=Kaviyarasu24&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
