@@ -92,6 +92,12 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 ## GitHub Analytics
 
 <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kaviyarasu24&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="140" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
