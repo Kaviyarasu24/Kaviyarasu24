@@ -3,7 +3,6 @@
 
 <!-- Dark-theme badges: followers, GitHub stats, top languages, streak -->
 <p align="center">
-  <a href="https://github.com/Kaviyarasu24"><img src="https://img.shields.io/github/followers/Kaviyarasu24?label=Followers&style=for-the-badge&color=white" alt="Followers" height="28" /></a>
   <img src="https://img.shields.io/badge/dynamic/json?label=Repos&query=public_repos&url=https://api.github.com/users/Kaviyarasu24&color=blue&style=for-the-badge" alt="Public Repos" height="28" />
   <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=blue&style=for-the-badge" alt="Profile Views" height="28" />
 </p>
