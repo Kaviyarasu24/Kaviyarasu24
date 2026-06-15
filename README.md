@@ -1,4 +1,4 @@
-   # Hi there, I'm Kaviyarasu! 👋
+   # Hi, I'm Kaviyarasu! 👋
 
 
 <!-- Dark-theme badges: followers, GitHub stats, top languages, streak -->
