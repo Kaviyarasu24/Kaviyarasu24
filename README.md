@@ -68,21 +68,35 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
 
 ## Featured Projects
 
-### IPL Analysis Dashboard (2008–2024)
+### J.A.R.V.I.S — Personal Voice Assistant
+- **Tech Stack:** Python, Agentic AI, Desktop UI
+- Built a Windows-first AI voice assistant using a goal-based agent architecture that interprets user intent, plans multi-step tool actions, and executes them autonomously instead of relying on rigid command matching.
+- Designed a cinematic desktop UI with a live transcript panel, task widgets, and full speech controls for an interactive voice-driven experience.
+
+### FinanceFlow — Personal Finance App
+- **Tech Stack:** Expo, React Native, TypeScript, Supabase
+- Developed a cross-platform personal finance app with real-time data synchronization.
+- Implemented transaction tracking, custom category management, chart-based analytics, and a savings-rate panel to surface spending and saving insights.
+
+### AirType — Hands-Free Dictation Tool
+- **Tech Stack:** Python, Windows UI Automation (COM APIs), Google Cloud Speech-to-Text
+- Built a Windows desktop app enabling system-wide hands-free dictation, using Windows UI Automation to track active input fields in real time.
+- Implemented dual speech-recognition modes (live streaming via Google Cloud Speech-to-Text and offline fallback) with reliable keystroke-based text injection and a customizable floating overlay UI.
+
+### TALK2D — Natural Language to Database Query Tool
+- **Tech Stack:** Python, SQL, MongoDB, OpenRouter AI
+- Developed an AI-powered natural-language-to-database query interface supporting MySQL, PostgreSQL, SQLite, and MongoDB from a single tool.
+- Built auto-visualization (bar, pie, line, scatter, area charts), a schema explorer, query history, and a connection manager, powered by free AI models via OpenRouter.
+
+### IPL Analysis Dashboard
 - **Tech Stack:** Power BI, DAX, Data Modeling
-- Analyzed 900+ IPL matches to uncover player performance trends, venue win rates, and toss impact. Built dynamic filtering and time-series storytelling across 16 seasons.
+- Built an interactive Power BI dashboard analyzing 900+ IPL matches (2008–2024) to surface player performance, venue statistics, and toss-impact trends.
+- Designed dynamic visuals with DAX measures, KPIs, and interactive filters, turning raw match data into actionable insights on team and player performance.
 
-### Report Automation Tool
-- **Tech Stack:** Python, Excel, HTML/PDF Generation
-- Built a pipeline that ingests raw Excel vegetation-index data (NDVI, EVI) and embedded field images, auto-generating multi-page responsive HTML and PDF reports for precision farming. Reduced manual report preparation time by over 70%.
-
-### EDITH Voice Assistant
-- **Tech Stack:** Python, SpeechRecognition, FastAPI, React
-- Engineered a voice assistant supporting real-time voice and text commands, system monitoring, weather updates, and a React-based holographic UI.
-
-### FinanceFlow — Personal Finance Analytics App
-- **Tech Stack:** React Native, TypeScript, Supabase (PostgreSQL)
-- Developed an Android app with authentication, real-time transaction tracking, and analytics dashboards (donut charts, income vs expense, savings rate).
+### Smart Vehicle Detection & Security System
+- **Tech Stack:** Python, YOLOv11, OpenCV, EasyOCR, Excel
+- Developed a real-time vehicle detection and tracking system using YOLOv11 and OpenCV to monitor line crossings and generate annotated surveillance footage.
+- Integrated license-plate recognition with EasyOCR and automated daily Excel report generation with timestamps, vehicle details, and captured snapshots — eliminating manual log entry.
 
 
 
