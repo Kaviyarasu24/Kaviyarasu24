@@ -118,21 +118,16 @@ Real-time vehicle detection and line-crossing tracking with license-plate recogn
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaviyarasu24&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&cache_seconds=86400" alt="Most Used Languages" />
+  <img src="https://streak-stats.demolab.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyarasu24&theme=react" alt="Kaviyarasu24's Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<!--
-Note: github-readme-stats.vercel.app and github-readme-activity-graph.vercel.app are shared public
-instances that are frequently overloaded/rate-limited and can show "Something went wrong" errors
-intermittently — this is a known upstream issue, not a config problem on this profile.
-For a permanent fix, self-host via GitHub Actions instead of the public API:
-https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true" alt="Most Used Languages" />
+</p>
 
 
 ## 🧩 Problem Solving
