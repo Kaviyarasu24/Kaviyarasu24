@@ -130,19 +130,6 @@ Real-time vehicle detection and line-crossing tracking with license-plate recogn
 </p>
 
 
-## 🧩 Problem Solving
-
-<p align="center">
-  <a href="https://leetcode.com/Kaviyarasu_P" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-Kaviyarasu__P-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Kaviyarasu_P?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
-</p>
-
----
 
 <p align="center">
 Find more on my <a href="https://kaviyarasup.me">Portfolio</a> or reach out via <a href="https://www.linkedin.com/in/kaviyarasup2411">LinkedIn</a>.
