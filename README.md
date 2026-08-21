@@ -126,7 +126,7 @@ Real-time vehicle detection and line-crossing tracking with license-plate recogn
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Kaviyarasu24&layout=compact&langs_count=4&theme=calm_pink" alt="Most Used Languages" />
 </p>
 
 
