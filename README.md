@@ -122,7 +122,7 @@ Real-time vehicle detection and line-crossing tracking with license-plate recogn
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kaviyarasu24&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
+  <a href="https://github.com/stats-organization/github-stats-extended"><img src="https://github-stats-extended.vercel.app/api?username=Kaviyarasu24&rank_icon=github&show_icons=true&include_all_commits=true&theme=darcula" alt="Kaviyarasu24's GitHub stats" /></a>
 </p>
 
 <p align="center">
