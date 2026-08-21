@@ -1,27 +1,45 @@
-   # Hi, I'm Kaviyarasu! 👋
-
-
-<!-- Dark-theme badges: followers, GitHub stats, top languages, streak -->
+<!-- Dark-theme badges: followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=blue&style=for-the-badge" alt="Profile Views" height="28" />
 </p>
 
+<h1 align="center">Hi, I'm Kaviyarasu 👋</h1>
 
-AI & Data Science graduate with hands-on experience in Python, Power BI, PostgreSQL, and full-stack development. Proven ability to build end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems. Passionate about transforming raw data into actionable insights and delivering scalable solutions.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=AI+%26+Data+Science+Graduate;Building+intelligent+systems;Turning+data+into+decisions;Open+to+collaborate+%26+innovate" alt="Typing SVG" />
 </p>
 
-## Tech Stack
+<p align="center">
+AI & Data Science graduate who builds end-to-end data pipelines, interactive analytics dashboards, and AI-powered systems — turning raw data into decisions people can act on.
+</p>
 
-### Programming
+<p align="center">
+  <a href="https://kaviyarasup.me" target="_blank"><img src="https://img.shields.io/badge/Portfolio-kaviyarasup.me-00D4FF?style=for-the-badge" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/kaviyarasup2411" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+---
+
+## 🚀 Spotlight: J.A.R.V.I.S — Personal Voice Assistant
+
+A Windows-first AI voice assistant built on a **goal-based agent architecture** — it interprets user intent, plans multi-step tool actions, and executes them autonomously instead of relying on rigid command matching. Paired with a cinematic desktop UI: live transcript panel, task widgets, and full speech controls.
+
+*Why: wanted a voice assistant that actually reasons about goals instead of matching fixed commands.*
+
+**Stack:** Python · Agentic AI · Desktop UI
+
+---
+
+## 🛠️ Tech Stack
+
+**Programming**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
 </p>
 
-### AI / ML & Data
+**AI / ML & Data**
 <p align="left">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
@@ -31,14 +49,14 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
   <img src="https://img.shields.io/badge/Kiro-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="Kiro" />
 </p>
 
-### Data Visualization
+**Data Visualization**
 <p align="left">
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/Seaborn-1A5276?style=flat-square&logo=python&logoColor=white" alt="Seaborn" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
 </p>
 
-### Web & Mobile
+**Web & Mobile**
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native" />
@@ -47,7 +65,7 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
   <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo" />
 </p>
 
-### Databases & Cloud
+**Databases & Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
@@ -56,7 +74,7 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
 </p>
 
-### Tools & Infra
+**Tools & Infra**
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -66,48 +84,58 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
   <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
 </p>
 
-## Featured Projects
+---
 
-### J.A.R.V.I.S — Personal Voice Assistant
-- **Tech Stack:** Python, Agentic AI, Desktop UI
-- Built a Windows-first AI voice assistant using a goal-based agent architecture that interprets user intent, plans multi-step tool actions, and executes them autonomously instead of relying on rigid command matching.
-- Designed a cinematic desktop UI with a live transcript panel, task widgets, and full speech controls for an interactive voice-driven experience.
+## 📦 More Projects
 
 ### FinanceFlow — Personal Finance App
-- **Tech Stack:** Expo, React Native, TypeScript, Supabase
-- Developed a cross-platform personal finance app with real-time data synchronization.
-- Implemented transaction tracking, custom category management, chart-based analytics, and a savings-rate panel to surface spending and saving insights.
+**Stack:** Expo, React Native, TypeScript, Supabase
+Cross-platform personal finance app with real-time sync, transaction tracking, custom category management, chart-based analytics, and a savings-rate panel.
+*Why: most budgeting apps make saving invisible — wanted spending and savings rate visible at a glance.*
 
 ### AirType — Hands-Free Dictation Tool
-- **Tech Stack:** Python, Windows UI Automation (COM APIs), Google Cloud Speech-to-Text
-- Built a Windows desktop app enabling system-wide hands-free dictation, using Windows UI Automation to track active input fields in real time.
-- Implemented dual speech-recognition modes (live streaming via Google Cloud Speech-to-Text and offline fallback) with reliable keystroke-based text injection and a customizable floating overlay UI.
+**Stack:** Python, Windows UI Automation (COM APIs), Google Cloud Speech-to-Text
+System-wide hands-free dictation for Windows — tracks active input fields in real time, with dual speech-recognition modes (live streaming + offline fallback) and a customizable floating overlay.
+*Why: wanted dictation that works in any app, not just one editor's built-in voice typing.*
 
 ### TALK2D — Natural Language to Database Query Tool
-- **Tech Stack:** Python, SQL, MongoDB, OpenRouter AI
-- Developed an AI-powered natural-language-to-database query interface supporting MySQL, PostgreSQL, SQLite, and MongoDB from a single tool.
-- Built auto-visualization (bar, pie, line, scatter, area charts), a schema explorer, query history, and a connection manager, powered by free AI models via OpenRouter.
+**Stack:** Python, SQL, MongoDB, OpenRouter AI
+Natural-language-to-database interface spanning MySQL, PostgreSQL, SQLite, and MongoDB from a single tool, with auto-visualization, a schema explorer, query history, and a connection manager.
+*Why: switching between SQL dialects and Mongo queries for the same question got tedious — wanted one plain-English interface.*
 
 ### IPL Analysis Dashboard
-- **Tech Stack:** Power BI, DAX, Data Modeling
-- Built an interactive Power BI dashboard analyzing 900+ IPL matches (2008–2024) to surface player performance, venue statistics, and toss-impact trends.
-- Designed dynamic visuals with DAX measures, KPIs, and interactive filters, turning raw match data into actionable insights on team and player performance.
+**Stack:** Power BI, DAX, Data Modeling
+Interactive dashboard analyzing 900+ IPL matches (2008–2024) — player performance, venue statistics, and toss-impact trends via dynamic DAX measures and KPIs.
+*Why: wanted to test whether toss decisions actually correlate with match outcomes, backed by real historical data.*
 
 ### Smart Vehicle Detection & Security System
-- **Tech Stack:** Python, YOLOv11, OpenCV, EasyOCR, Excel
-- Developed a real-time vehicle detection and tracking system using YOLOv11 and OpenCV to monitor line crossings and generate annotated surveillance footage.
-- Integrated license-plate recognition with EasyOCR and automated daily Excel report generation with timestamps, vehicle details, and captured snapshots — eliminating manual log entry.
+**Stack:** Python, YOLOv11, OpenCV, EasyOCR, Excel
+Real-time vehicle detection and line-crossing tracking with license-plate recognition (EasyOCR) and automated daily Excel reporting — eliminating manual log entry.
+*Why: manual gate logs were slow and error-prone — wanted an automated system that could log and report without a human at the desk.*
 
+---
 
-
-
-## GitHub Analytics
+## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kaviyarasu24&theme=dark&hide_border=true" alt="Streak" height="140" />
+  <img src="https://streak-stats.demolab.com?user=Kaviyarasu24&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaviyarasu24&layout=compact&theme=dark&cache_seconds=86400" alt="Most Used Languages" />
 </p>
 
-## Problem Solving & Profiles
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kaviyarasu24&theme=react" alt="Kaviyarasu24's Contribution Graph" />
+</p>
+
+<!--
+Note: github-readme-stats.vercel.app and github-readme-activity-graph.vercel.app are shared public
+instances that are frequently overloaded/rate-limited and can show "Something went wrong" errors
+intermittently — this is a known upstream issue, not a config problem on this profile.
+For a permanent fix, self-host via GitHub Actions instead of the public API:
+https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
+-->
+
+
+## 🧩 Problem Solving
 
 <p align="center">
   <a href="https://leetcode.com/Kaviyarasu_P" target="_blank">
@@ -119,9 +147,11 @@ AI & Data Science graduate with hands-on experience in Python, Power BI, Postgre
   <img src="https://leetcard.jacoblin.cool/Kaviyarasu_P?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=10" alt="LeetCode Stats" />
 </p>
 
-## Connect
+---
 
-Find more on my [Portfolio](https://kaviyarasup.me) or reach out via [LinkedIn](https://www.linkedin.com/in/kaviyarasup2411).
+<p align="center">
+Find more on my <a href="https://kaviyarasup.me">Portfolio</a> or reach out via <a href="https://www.linkedin.com/in/kaviyarasup2411">LinkedIn</a>.
+</p>
 
 <!---
 Kaviyarasu24/Kaviyarasu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
