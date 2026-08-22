@@ -1,4 +1,4 @@
-<!-- Dark-theme badges: followers -->
+<!-- Dark-theme badges: follower -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Kaviyarasu24&color=blue&style=for-the-badge" alt="Profile Views" height="28" />
 </p>
