@@ -2,7 +2,10 @@ name: Update Profile Cards
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Run once every day at midnight
+    - cron: '0 0 * * *'   # 5:30 AM IST (00:00 UTC)
+    - cron: '0 7 * * *'   # 12:30 PM IST (07:00 UTC)
+    - cron: '30 12 * * *' # 6:00 PM IST (12:30 UTC)
+    - cron: '0 17 * * *'  # 10:30 PM IST (17:00 UTC)
   workflow_dispatch: # Allow manual execution
 
 jobs:
