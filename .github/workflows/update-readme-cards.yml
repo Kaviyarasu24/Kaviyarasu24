@@ -74,7 +74,19 @@ jobs:
           git add profile/stats.svg profile/top-langs.svg profile/activity-graph.svg
           if ! git diff --cached --quiet; then
             git commit -m "Update profile cards [skip ci]"
-            git push origin main
+            pushed=false
+            for attempt in 1 2 3; do
+              if git push origin HEAD:main; then
+                pushed=true
+                break
+              fi
+              echo "Push failed on attempt ${attempt}, rebasing on latest origin/main before retrying..."
+              git pull --rebase origin main
+            done
+            if [ "$pushed" = false ]; then
+              echo "Push failed after 3 attempts."
+              exit 1
+            fi
           else
             echo "No changes to commit."
           fi
