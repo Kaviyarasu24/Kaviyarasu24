@@ -118,7 +118,7 @@ Real-time vehicle detection and line-crossing tracking with license-plate recogn
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="./profile/stats.svg" alt="Kaviyarasu24's GitHub stats" width="370" height="145" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaviyarasu24&background=161B22&hide_border=false&border=30363D&ring=00D4FF&fire=00D4FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=C9D1D9" alt="Kaviyarasu24's GitHub streak stats" height="145" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./profile/top-langs.svg" alt="Most Used Languages" width="300" height="145" />
 </p>
